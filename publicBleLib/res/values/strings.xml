@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">blelib</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <string name="connect_idle">连接空闲</string>
+    <string name="connecting">连接中...</string>
+    <string name="connected">已连接</string>
+    <string name="connect_timeout">连接超时</string>
+    <string name="disconnecting">断开中...</string>
+    <string name="disconnected">已断开</string>
+    <string name="disconnect_timeout">断开超时</string>
+    <string name="discoverying">发现服务中...</string>
+    <string name="discoverysuccess">服务发现成功</string>
+    <string name="discoveryfail">服务发现失败</string>
+    <string name="communicationsuccess">通道建立成功</string>
+    <string name="communicationfail">通道建立失败</string>
+    <string name="other">未知</string>
+
+</resources>

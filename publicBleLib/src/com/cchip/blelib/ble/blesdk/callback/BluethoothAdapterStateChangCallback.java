@@ -1,0 +1,21 @@
+/**   
+* @Title: BluethoothAdapterStateChangCallback.java 
+* @Package com.cchip.blesdk.ble.blesdk.callback 
+* @Description: TODO
+* @author wch   
+* @date 2015��12��4�� ����4:57:10 
+* @version V1.0   
+*/
+package com.cchip.blelib.ble.blesdk.callback;
+
+/** 
+ * @ClassName: BluethoothAdapterStateChangCallback 
+ * @Description: TODO
+ * @author wch
+ * @date 2015��12��4�� ����4:57:10 
+ *  
+ */
+public interface BluethoothAdapterStateChangCallback {
+
+	public void onBluethoothAdapterState(int state);
+}
